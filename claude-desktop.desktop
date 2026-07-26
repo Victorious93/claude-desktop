@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Claude Desktop
+Comment=Native PyQt6 client for Anthropic Claude — Victorious Framework
+Exec=python3 /home/origin/claude-desktop/main.py
+Icon=system-help
+Terminal=false
+Categories=Utility;Network;
+Keywords=claude;anthropic;ai;llm;chat;
+StartupWMClass=claude-desktop
